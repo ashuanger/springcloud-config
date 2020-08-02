@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cloud-geteway
+    name: cloud-geteway-1.0
   cloud:
     gateway:
       discovery:
